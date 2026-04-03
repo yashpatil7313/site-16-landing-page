@@ -40,7 +40,6 @@ site-16-landing-page/
 
 ## 📸 Preview
 
-> ⚠️ Make sure `preview.png` is uploaded in the same folder
 
 ![Landing Page Preview](preview16.png)
 
